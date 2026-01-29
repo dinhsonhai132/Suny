@@ -2,6 +2,7 @@
 AppName=Suny
 AppVersion=1.0.0
 AppPublisher=Suny Project
+PrivilegesRequired=admin
 DefaultDirName={pf}\Suny
 DefaultGroupName=Suny
 DisableProgramGroupPage=yes
